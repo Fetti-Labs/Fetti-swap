@@ -1,0 +1,10 @@
+{
+    "name": "Fetti",
+    "blocks": {
+        "/blockchain/solana": true,
+        "/blockchain/solana/rust": true,
+        "/framework/vanilla": true,
+        "/category/examples/core-hello_dev": true,
+        "/category/onchain/core-token": true
+    }
+}
